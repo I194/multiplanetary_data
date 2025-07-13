@@ -81,6 +81,8 @@ Your content here. Use additional sections (`##`, `###`, …) as needed.
 
 ## Contributing Workflow
 
+> **Heads-up :** Direct pushes to the `main` branch are restricted to repository maintainers. If you’re contributing from outside the core team, please fork the repo first and work in your fork, then open a Pull Request back to this repository.
+
 1. Fork this repository and create a topic branch:
    ```bash
    git checkout -b my-new-article
